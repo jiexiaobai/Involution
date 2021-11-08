@@ -28,8 +28,8 @@ php
 php几乎为0只能看懂一些代码审计一些重要的函数
 计划系统学习下达到能审计一些基础的cms  
 
-*    PHP基础
-*    PHP WebShell(小马/大马)
+*    ~~PHP基础~~
+*    ~~PHP WebShell(小马/大马)~~
 *    PHP5、PHP7 免杀
 *    PHP常见漏洞
 *    WebShell免杀
